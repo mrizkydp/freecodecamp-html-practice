@@ -54,4 +54,4 @@ FIX HTML errors:
 - 
 ## Workshop Build an HTML Video Player
 
-- Insert an <h1> and an HTML5 <video> element to enable in-page playback. The video is configured with controls, loop, muted, a poster image and width=640, and includes multiple source fallbacks (mp4, webm, ogg, quicktime) for broader browser support.
+- Insert an h1 and an HTML5 video element to enable in-page playback. The video is configured with controls, loop, muted, a poster image and width=640, and includes multiple source fallbacks (mp4, webm, ogg, quicktime) for broader browser support.
