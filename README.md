@@ -26,3 +26,6 @@ FIX HTML errors:
 - add an inline linked image 
 - introduce a "Cat Lists" section with a ul of items, and add a figure with a lasagna image and figcaption. Improves document structure and adds more images/links for the gallery.
 - Improve HTML semantics and content in cat-photo-app/index.html: add <!DOCTYPE>, <html lang="en"> and a <head> with title and charset; insert a lasagna <figure>, add a "Top 3 things cats hate" ordered list, update the existing figure to use cats.jpg with adjusted caption, and add a footer credit. These changes enhance structure, accessibility, and page content.
+
+## Build Recipe Page Nasi Goreng Kampung
+- Populate recipe-page/index.html with content for Nasi Goreng Kampung: add heading and descriptive paragraph, include an image, and add Ingredients and Instructions sections with a bulleted list and step-by-step ordered list for preparation.
