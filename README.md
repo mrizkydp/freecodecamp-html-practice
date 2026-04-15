@@ -1,8 +1,14 @@
 # freecodecamp-html-practice
 A collection of basic HTML practice projects built while learning the FreeCodeCamp Responsive Web Design certification
 
-## Obejctive 
+## Obejctive Camperbot-Profile
 Fix HTML errors:
 - Invalid heading2 tag
 - paragraf tags (pp)
 - closing tags heading3
+
+## Obejctive Pet-Adoption
+FIX HTML errors:
+- Attributes href and att on <img>
+- a (anchor) attribute src
+- closing tag <img> 
