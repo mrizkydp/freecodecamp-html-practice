@@ -49,3 +49,9 @@ FIX HTML errors:
 
 ## Build Travel Agency Page
 - Create travel-agency-page/index.html: a new static landing page with meta description and responsive viewport. Contains welcome copy, package list with external placeholder links, and three itinerary figure blocks (images + captions). Note: referenced image assets (beach-getaway.jpg, adventure-trekking.jpg, cultural-tour.jpg) are placeholders and should be added or updated; links currently point to freecodecamp.org as placeholders.
+
+## Workshop Build an HTML Music Player
+- 
+## Workshop Build an HTML Video Player
+
+- Insert an <h1> and an HTML5 <video> element to enable in-page playback. The video is configured with controls, loop, muted, a poster image and width=640, and includes multiple source fallbacks (mp4, webm, ogg, quicktime) for broader browser support.
