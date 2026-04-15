@@ -13,7 +13,7 @@ FIX HTML errors:
 - a (anchor) attribute src
 - closing tag <img> 
 
-## Build Cat Photo App
+## Workshop Build Cat Photo App
 - adding h1 element with text
 - below the h1 add an h2 element with text
 - create a p element below h2 with text
@@ -29,3 +29,20 @@ FIX HTML errors:
 
 ## Build Recipe Page Nasi Goreng Kampung
 - Populate recipe-page/index.html with content for Nasi Goreng Kampung: add heading and descriptive paragraph, include an image, and add Ingredients and Instructions sections with a bulleted list and step-by-step ordered list for preparation.
+
+## Workshop Build Bookstore Page
+- Create initial index.html for book-store-page containing a basic HTML5 skeleton with charset. 
+- viewport meta tags and the title 'XYZ Bookstore Page'. Adds scaffolding for the bookstore site.
+- add an h1 element with the text XYZ Bookstore.
+- Below the h1 element, add a p element with this text: Browse our collection of amazing books!.
+- Below the p element, add a div element. This div will be a container for your book cards.
+- Add a class attribute to your div element and set its value to card-container.
+- Create another div element. This div will represent the first book card. Add a class attribute to this new div element and set the value of the class attribute to card.
+- Add an id attribute to your element having a class of card and set its value to sally-adventure-book.
+- Add h2 and p inside div where class = card and id = sally-adventure-book
+- Add a button element inside the element that has a class of card, give the button a class attribute set to btn, and the text Buy Now.
+-  Add another div element with the class attribute set to card
+- Inside the second element having a class of card, add an h2 element with the text Dave's Cooking Adventure.
+- add a p element with this text
+- add a button element with the class attribute set to btn and the text Buy Now.
+- Add a review prompt and cart controls to the book store page. Inserts a paragraph prompting users to review selections and a .btn-container with two buttons: "View Cart" (id: view-cart-btn) and "Checkout" (id: checkout-btn). These elements provide UI hooks for viewing the cart and proceeding to checkout.
