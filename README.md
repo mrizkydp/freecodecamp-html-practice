@@ -46,3 +46,6 @@ FIX HTML errors:
 - add a p element with this text
 - add a button element with the class attribute set to btn and the text Buy Now.
 - Add a review prompt and cart controls to the book store page. Inserts a paragraph prompting users to review selections and a .btn-container with two buttons: "View Cart" (id: view-cart-btn) and "Checkout" (id: checkout-btn). These elements provide UI hooks for viewing the cart and proceeding to checkout.
+
+## Build Travel Agency Page
+Create travel-agency-page/index.html: a new static landing page with meta description and responsive viewport. Contains welcome copy, package list with external placeholder links, and three itinerary figure blocks (images + captions). Note: referenced image assets (beach-getaway.jpg, adventure-trekking.jpg, cultural-tour.jpg) are placeholders and should be added or updated; links currently point to freecodecamp.org as placeholders.
